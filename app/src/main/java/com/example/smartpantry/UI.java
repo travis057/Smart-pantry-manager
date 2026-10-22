@@ -1,4 +1,3 @@
-
 package com.example.smartpantry;
 
 import android.app.*;
